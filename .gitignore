@@ -1,0 +1,6 @@
+# Cache directory
+cache/
+logs/
+
+# Cache file
+.console_history
