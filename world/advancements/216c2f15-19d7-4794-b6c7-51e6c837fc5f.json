@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-02-26 04:20:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2021-02-23 02:09:11 +0000"
@@ -527,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2021-02-26 04:20:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2021-02-21 15:17:34 +0000"
@@ -614,6 +626,7 @@
       "minecraft:piglin_brute": "2021-02-22 14:34:34 +0000",
       "minecraft:creeper": "2021-02-22 09:25:41 +0000",
       "minecraft:slime": "2021-02-21 16:27:50 +0000",
+      "minecraft:witch": "2021-02-26 04:25:42 +0000",
       "minecraft:cave_spider": "2021-02-22 10:03:17 +0000",
       "minecraft:piglin": "2021-02-22 14:25:56 +0000",
       "minecraft:enderman": "2021-02-22 14:58:36 +0000",
@@ -749,6 +762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-02-26 04:20:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2021-02-21 15:42:04 +0000"
@@ -863,6 +882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-02-26 04:20:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2021-02-22 09:15:19 +0000"
@@ -926,6 +951,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2021-02-22 14:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-02-26 04:20:38 +0000"
     },
     "done": true
   },
@@ -1387,6 +1418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-02-26 04:20:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2021-02-21 15:46:19 +0000"
@@ -1748,6 +1785,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2021-02-23 02:09:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-02-26 04:20:38 +0000"
     },
     "done": true
   },
@@ -2411,6 +2454,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-02-26 04:20:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2021-02-21 15:31:33 +0000"
@@ -2507,6 +2556,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-02-26 04:20:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-02-22 03:35:06 +0000"
@@ -2582,6 +2637,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2021-02-21 15:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2021-02-26 04:20:38 +0000"
     },
     "done": true
   },
@@ -2735,6 +2796,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2021-02-26 04:21:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-02-21 17:10:26 +0000"
@@ -2858,6 +2925,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2021-02-21 16:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-02-26 04:20:38 +0000"
     },
     "done": true
   },

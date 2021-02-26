@@ -1,0 +1,66 @@
+####################################
+#                                  #
+#    BossBar Made By Dutchwilco    #
+#           Version 4.4            #
+####################################
+#     Don't remove the '' or #     #
+####################################
+
+#Title and subtitle
+WelcomeTitle: true
+Title: '&a&lWELCOME'
+SubTitle: '&eEnjoy your stay, %player_name%'
+
+#WelcomeMessages
+WelcomeMessage: true
+FirstJoin: '&a%player_name% &ehas joined the server for the first time'
+WelcomeBack: '&6Welcome back, &a%player_name%'
+
+#BossBar
+BossBar: true
+BossBar-Interval: 10 # in seconds
+
+bossbars:
+  '1':
+    text: '&e&lYou are playing as &a&l%player_name%'
+    color: 'RED'
+    type: 'SOLID'
+  '2':
+    text: '&e&lPlaying &b&lSURVIVAL 2.0 &e&lon &a&lMC.ZHYCORP.COM'
+    color: 'YELLOW'
+    type: 'SOLID'
+  '3':
+    text: '&e&lServer environment &a&lupgrade & improvement'
+    color: 'GREEN'
+    type: 'SOLID'
+  '4':
+    text: '&e&lJoin us on &b&lDiscord &e&lat &a&lzhycorp.com/discord'
+    color: 'BLUE'
+    type: 'SOLID'
+  '5':
+    text: '&e&lFollow our &d&lInstagram &e&laccount &a&l@zhycorp'
+    color: 'PINK'
+    type: 'SOLID'
+
+#AutoBroadcast
+ChatMessages: false
+Chat-Interval: 60
+
+chatmessages:
+  '1':
+    text: '&aText1'
+  '2':
+    text: '&aText2'
+  '3':
+    text: '&aText3'
+  '4':
+    text: '&aText4'
+  '5':
+    text: '&aText5'
+
+
+# * for every world on the server
+bossbar-worlds:
+  - 'world'
+  - 'world_nether'
+  - 'world_the_end'
