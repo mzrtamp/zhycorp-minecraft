@@ -1911,6 +1911,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2021-03-01 07:35:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2021-02-21 14:30:22 +0000"
@@ -1991,6 +1997,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2021-03-01 07:43:00 +0000",
       "sweet_berries": "2021-02-24 04:06:26 +0000",
       "cooked_beef": "2021-02-22 02:02:06 +0000",
       "beef": "2021-02-22 07:56:22 +0000",
@@ -2703,6 +2710,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-02-23 04:08:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2021-03-01 07:45:25 +0000"
     },
     "done": true
   },
