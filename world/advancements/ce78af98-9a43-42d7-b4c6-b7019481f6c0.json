@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-03-02 13:28:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2021-03-01 08:32:02 +0000"
@@ -467,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2021-03-02 13:28:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2021-03-01 14:17:45 +0000"
@@ -545,8 +557,10 @@
       "minecraft:spider": "2021-03-01 10:27:36 +0000",
       "minecraft:creeper": "2021-03-01 10:14:06 +0000",
       "minecraft:phantom": "2021-03-02 05:13:45 +0000",
+      "minecraft:zombified_piglin": "2021-03-02 11:22:04 +0000",
       "minecraft:enderman": "2021-03-01 08:37:06 +0000",
       "minecraft:zombie": "2021-03-01 08:38:08 +0000",
+      "minecraft:drowned": "2021-03-02 11:22:01 +0000",
       "minecraft:zombie_villager": "2021-03-01 14:02:13 +0000"
     },
     "done": false
@@ -674,6 +688,12 @@
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2021-03-01 12:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-03-02 13:28:38 +0000"
     },
     "done": true
   },
@@ -809,6 +829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-03-02 13:28:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2021-03-01 12:07:18 +0000"
@@ -890,6 +916,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2021-03-01 12:05:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-03-02 13:28:38 +0000"
     },
     "done": true
   },
@@ -1300,6 +1332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-03-02 13:28:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-03-01 14:50:14 +0000"
@@ -1677,6 +1715,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-03-02 13:28:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2021-02-22 13:29:37 +0000"
@@ -1782,6 +1826,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2021-03-02 08:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2021-03-02 13:23:01 +0000"
     },
     "done": true
   },
@@ -2241,6 +2291,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-03-02 13:28:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2021-03-01 10:18:36 +0000"
@@ -2337,6 +2393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-03-02 13:28:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-03-01 12:05:17 +0000"
@@ -2418,6 +2480,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2021-03-02 09:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2021-03-02 13:28:38 +0000"
     },
     "done": true
   },
@@ -2616,6 +2684,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2021-03-02 09:27:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2021-03-02 13:28:38 +0000"
     },
     "done": true
   },
