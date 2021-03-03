@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2021-03-02 16:00:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2021-02-26 04:20:38 +0000"

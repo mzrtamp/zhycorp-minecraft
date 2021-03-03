@@ -43,7 +43,7 @@ require-cross-section: false
 force-distance-check: false
 
 # Should the tree cut down with an animation?
-cutting-animation: false
+cutting-animation: true
 
 # Animation delay, in ticks
 anim-delay: 1
