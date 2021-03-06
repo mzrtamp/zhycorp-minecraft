@@ -1,0 +1,10 @@
+[Sat, 6. Mar 2021 15:04:23 WIB | ID 390045370240991234] Nyomud: -ev bot.user.setAvatar("https://cdn.discordapp.com/attachments/433586248498544640/817668795270299680/pp.jfif")
+[Sat, 6. Mar 2021 15:04:24 WIB | ID 510436392615280641] Ryuji: 
+[Sat, 6. Mar 2021 20:08:53 WIB | ID 390045370240991234] Nyomud: -ev bot.guilds.cache.get("332877090003091456").member(bot.user).setUsername("Servant");
+[Sat, 6. Mar 2021 20:08:53 WIB | ID 510436392615280641] Ryuji: 
+[Sat, 6. Mar 2021 20:09:01 WIB | ID 390045370240991234] Nyomud: -ev bot.guilds.cache.get("332877090003091456").member(bot.user.id).setUsername("Servant");
+[Sat, 6. Mar 2021 20:09:01 WIB | ID 510436392615280641] Ryuji: 
+[Sat, 6. Mar 2021 21:43:58 WIB | ID 390045370240991234] Nyomud: give bgsd torch
+[Sat, 6. Mar 2021 21:44:12 WIB | ID 390045370240991234] Nyomud: give bgsd torch
+[Sat, 6. Mar 2021 21:45:30 WIB | ID 390045370240991234] Nyomud: weather thunder
+[Sat, 6. Mar 2021 21:45:38 WIB | ID 390045370240991234] Nyomud: weather clear
